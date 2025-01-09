@@ -1,0 +1,780 @@
+2025-01-07 11:23:51,222 - INFO - Loaded 0 processed IDs from checkpoint.
+2025-01-07 11:23:51,222 - INFO - Processing batch 1: rows 0 to 999
+2025-01-07 11:25:50,458 - INFO - Batch 1 processed and saved.
+2025-01-07 11:25:50,458 - INFO - Processing batch 2: rows 1000 to 1999
+2025-01-07 11:28:23,773 - INFO - Batch 2 processed and saved.
+2025-01-07 11:28:23,773 - INFO - Processing batch 3: rows 2000 to 2999
+2025-01-07 11:30:29,859 - INFO - Batch 3 processed and saved.
+2025-01-07 11:30:29,861 - INFO - Processing batch 4: rows 3000 to 3999
+2025-01-07 11:32:45,368 - INFO - Batch 4 processed and saved.
+2025-01-07 11:32:45,382 - INFO - Processing batch 5: rows 4000 to 4999
+2025-01-07 11:35:03,657 - INFO - Batch 5 processed and saved.
+2025-01-07 11:35:03,657 - INFO - Processing batch 6: rows 5000 to 5999
+2025-01-07 11:37:36,316 - INFO - Batch 6 processed and saved.
+2025-01-07 11:37:36,316 - INFO - Processing batch 7: rows 6000 to 6999
+2025-01-07 11:39:51,512 - INFO - Batch 7 processed and saved.
+2025-01-07 11:39:51,512 - INFO - Processing batch 8: rows 7000 to 7999
+2025-01-07 11:42:05,340 - INFO - Batch 8 processed and saved.
+2025-01-07 11:42:05,340 - INFO - Processing batch 9: rows 8000 to 8999
+2025-01-07 11:44:12,096 - INFO - Batch 9 processed and saved.
+2025-01-07 11:44:12,096 - INFO - Processing batch 10: rows 9000 to 9999
+2025-01-07 11:45:53,463 - INFO - Batch 10 processed and saved.
+2025-01-07 11:45:53,463 - INFO - Processing batch 11: rows 10000 to 10999
+2025-01-07 11:48:01,526 - INFO - Batch 11 processed and saved.
+2025-01-07 11:48:01,526 - INFO - Processing batch 12: rows 11000 to 11999
+2025-01-07 11:50:08,358 - INFO - Batch 12 processed and saved.
+2025-01-07 11:50:08,358 - INFO - Processing batch 13: rows 12000 to 12999
+2025-01-07 11:52:15,250 - INFO - Batch 13 processed and saved.
+2025-01-07 11:52:15,250 - INFO - Processing batch 14: rows 13000 to 13999
+2025-01-07 11:54:08,184 - INFO - Batch 14 processed and saved.
+2025-01-07 11:54:08,184 - INFO - Processing batch 15: rows 14000 to 14999
+2025-01-07 11:55:55,590 - INFO - Batch 15 processed and saved.
+2025-01-07 11:55:55,590 - INFO - Processing batch 16: rows 15000 to 15999
+2025-01-07 11:57:45,833 - INFO - Batch 16 processed and saved.
+2025-01-07 11:57:45,833 - INFO - Processing batch 17: rows 16000 to 16999
+2025-01-07 11:59:42,026 - INFO - Batch 17 processed and saved.
+2025-01-07 11:59:42,026 - INFO - Processing batch 18: rows 17000 to 17999
+2025-01-07 12:01:31,304 - INFO - Batch 18 processed and saved.
+2025-01-07 12:01:31,304 - INFO - Processing batch 19: rows 18000 to 18999
+2025-01-07 12:03:23,346 - INFO - Batch 19 processed and saved.
+2025-01-07 12:03:23,346 - INFO - Processing batch 20: rows 19000 to 19999
+2025-01-07 12:05:05,676 - INFO - Batch 20 processed and saved.
+2025-01-07 12:05:05,676 - INFO - Processing batch 21: rows 20000 to 20999
+2025-01-07 12:06:58,769 - INFO - Batch 21 processed and saved.
+2025-01-07 12:06:58,769 - INFO - Processing batch 22: rows 21000 to 21999
+2025-01-07 12:08:45,453 - INFO - Batch 22 processed and saved.
+2025-01-07 12:08:45,453 - INFO - Processing batch 23: rows 22000 to 22999
+2025-01-07 12:10:22,996 - INFO - Batch 23 processed and saved.
+2025-01-07 12:10:22,996 - INFO - Processing batch 24: rows 23000 to 23999
+2025-01-07 12:12:14,926 - INFO - Batch 24 processed and saved.
+2025-01-07 12:12:14,926 - INFO - Processing batch 25: rows 24000 to 24999
+2025-01-07 12:13:43,498 - INFO - Batch 25 processed and saved.
+2025-01-07 12:13:43,500 - INFO - Processing batch 26: rows 25000 to 25999
+2025-01-07 12:15:42,445 - INFO - Batch 26 processed and saved.
+2025-01-07 12:15:42,445 - INFO - Processing batch 27: rows 26000 to 26999
+2025-01-07 12:17:32,201 - INFO - Batch 27 processed and saved.
+2025-01-07 12:17:32,201 - INFO - Processing batch 28: rows 27000 to 27999
+2025-01-07 12:19:16,738 - INFO - Batch 28 processed and saved.
+2025-01-07 12:19:16,738 - INFO - Processing batch 29: rows 28000 to 28999
+2025-01-07 12:21:03,305 - INFO - Batch 29 processed and saved.
+2025-01-07 12:21:03,305 - INFO - Processing batch 30: rows 29000 to 29999
+2025-01-07 12:22:49,989 - INFO - Batch 30 processed and saved.
+2025-01-07 12:22:49,989 - INFO - Processing batch 31: rows 30000 to 30999
+2025-01-07 12:23:43,160 - WARNING - Retry 1/3 for manager_id 6928503: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 12:25:13,970 - INFO - Batch 31 processed and saved.
+2025-01-07 12:25:13,970 - INFO - Processing batch 32: rows 31000 to 31999
+2025-01-07 12:27:00,766 - INFO - Batch 32 processed and saved.
+2025-01-07 12:27:00,766 - INFO - Processing batch 33: rows 32000 to 32999
+2025-01-07 12:28:36,745 - INFO - Batch 33 processed and saved.
+2025-01-07 12:28:36,745 - INFO - Processing batch 34: rows 33000 to 33999
+2025-01-07 12:30:39,752 - INFO - Batch 34 processed and saved.
+2025-01-07 12:30:39,752 - INFO - Processing batch 35: rows 34000 to 34999
+2025-01-07 12:32:30,945 - INFO - Batch 35 processed and saved.
+2025-01-07 12:32:30,945 - INFO - Processing batch 36: rows 35000 to 35999
+2025-01-07 12:34:41,887 - INFO - Batch 36 processed and saved.
+2025-01-07 12:34:41,887 - INFO - Processing batch 37: rows 36000 to 36999
+2025-01-07 12:36:41,824 - INFO - Batch 37 processed and saved.
+2025-01-07 12:36:41,836 - INFO - Processing batch 38: rows 37000 to 37999
+2025-01-07 12:38:55,118 - INFO - Batch 38 processed and saved.
+2025-01-07 12:38:55,118 - INFO - Processing batch 39: rows 38000 to 38999
+2025-01-07 12:40:57,612 - INFO - Batch 39 processed and saved.
+2025-01-07 12:40:57,612 - INFO - Processing batch 40: rows 39000 to 39999
+2025-01-07 12:43:02,333 - INFO - Batch 40 processed and saved.
+2025-01-07 12:43:02,333 - INFO - Processing batch 41: rows 40000 to 40999
+2025-01-07 12:45:32,114 - INFO - Batch 41 processed and saved.
+2025-01-07 12:45:32,114 - INFO - Processing batch 42: rows 41000 to 41999
+2025-01-07 12:47:33,630 - INFO - Batch 42 processed and saved.
+2025-01-07 12:47:33,630 - INFO - Processing batch 43: rows 42000 to 42999
+2025-01-07 12:49:58,259 - INFO - Batch 43 processed and saved.
+2025-01-07 12:49:58,272 - INFO - Processing batch 44: rows 43000 to 43999
+2025-01-07 12:52:06,232 - INFO - Batch 44 processed and saved.
+2025-01-07 12:52:06,232 - INFO - Processing batch 45: rows 44000 to 44999
+2025-01-07 12:53:49,842 - INFO - Batch 45 processed and saved.
+2025-01-07 12:53:49,842 - INFO - Processing batch 46: rows 45000 to 45999
+2025-01-07 12:55:42,488 - INFO - Batch 46 processed and saved.
+2025-01-07 12:55:42,488 - INFO - Processing batch 47: rows 46000 to 46999
+2025-01-07 12:57:51,554 - INFO - Batch 47 processed and saved.
+2025-01-07 12:57:51,568 - INFO - Processing batch 48: rows 47000 to 47999
+2025-01-07 12:58:21,678 - WARNING - Retry 1/3 for manager_id 6619264: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 12:58:22,408 - WARNING - Retry 1/3 for manager_id 7355547: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 13:00:19,952 - INFO - Batch 48 processed and saved.
+2025-01-07 13:00:19,952 - INFO - Processing batch 49: rows 48000 to 48999
+2025-01-07 13:02:43,688 - INFO - Batch 49 processed and saved.
+2025-01-07 13:02:43,688 - INFO - Processing batch 50: rows 49000 to 49999
+2025-01-07 13:04:47,692 - INFO - Batch 50 processed and saved.
+2025-01-07 13:04:47,692 - INFO - Processing batch 51: rows 50000 to 50999
+2025-01-07 13:06:50,277 - INFO - Batch 51 processed and saved.
+2025-01-07 13:06:50,277 - INFO - Processing batch 52: rows 51000 to 51999
+2025-01-07 13:09:43,798 - INFO - Batch 52 processed and saved.
+2025-01-07 13:09:43,798 - INFO - Processing batch 53: rows 52000 to 52999
+2025-01-07 13:12:13,135 - INFO - Batch 53 processed and saved.
+2025-01-07 13:12:13,135 - INFO - Processing batch 54: rows 53000 to 53999
+2025-01-07 13:15:10,109 - INFO - Batch 54 processed and saved.
+2025-01-07 13:15:10,109 - INFO - Processing batch 55: rows 54000 to 54999
+2025-01-07 13:17:29,824 - INFO - Batch 55 processed and saved.
+2025-01-07 13:17:29,824 - INFO - Processing batch 56: rows 55000 to 55999
+2025-01-07 13:20:08,021 - INFO - Batch 56 processed and saved.
+2025-01-07 13:20:08,021 - INFO - Processing batch 57: rows 56000 to 56999
+2025-01-07 13:22:41,076 - INFO - Batch 57 processed and saved.
+2025-01-07 13:22:41,076 - INFO - Processing batch 58: rows 57000 to 57999
+2025-01-07 13:24:29,289 - INFO - Batch 58 processed and saved.
+2025-01-07 13:24:29,289 - INFO - Processing batch 59: rows 58000 to 58999
+2025-01-07 13:26:40,083 - INFO - Batch 59 processed and saved.
+2025-01-07 13:26:40,083 - INFO - Processing batch 60: rows 59000 to 59999
+2025-01-07 13:29:01,097 - INFO - Batch 60 processed and saved.
+2025-01-07 13:29:01,097 - INFO - Processing batch 61: rows 60000 to 60999
+2025-01-07 13:32:07,440 - INFO - Batch 61 processed and saved.
+2025-01-07 13:32:07,440 - INFO - Processing batch 62: rows 61000 to 61999
+2025-01-07 13:34:45,686 - INFO - Batch 62 processed and saved.
+2025-01-07 13:34:45,686 - INFO - Processing batch 63: rows 62000 to 62999
+2025-01-07 13:37:08,049 - INFO - Batch 63 processed and saved.
+2025-01-07 13:37:08,049 - INFO - Processing batch 64: rows 63000 to 63999
+2025-01-07 13:39:49,018 - INFO - Batch 64 processed and saved.
+2025-01-07 13:39:49,018 - INFO - Processing batch 65: rows 64000 to 64999
+2025-01-07 13:42:21,651 - INFO - Batch 65 processed and saved.
+2025-01-07 13:42:21,651 - INFO - Processing batch 66: rows 65000 to 65999
+2025-01-07 13:45:12,251 - INFO - Batch 66 processed and saved.
+2025-01-07 13:45:12,251 - INFO - Processing batch 67: rows 66000 to 66999
+2025-01-07 13:48:21,041 - INFO - Batch 67 processed and saved.
+2025-01-07 13:48:21,041 - INFO - Processing batch 68: rows 67000 to 67999
+2025-01-07 13:51:14,598 - INFO - Batch 68 processed and saved.
+2025-01-07 13:51:14,598 - INFO - Processing batch 69: rows 68000 to 68999
+2025-01-07 13:53:39,343 - INFO - Batch 69 processed and saved.
+2025-01-07 13:53:39,343 - INFO - Processing batch 70: rows 69000 to 69999
+2025-01-07 13:56:08,757 - INFO - Batch 70 processed and saved.
+2025-01-07 13:56:08,758 - INFO - Processing batch 71: rows 70000 to 70999
+2025-01-07 13:58:31,363 - INFO - Batch 71 processed and saved.
+2025-01-07 13:58:31,363 - INFO - Processing batch 72: rows 71000 to 71999
+2025-01-07 14:01:15,537 - INFO - Batch 72 processed and saved.
+2025-01-07 14:01:15,537 - INFO - Processing batch 73: rows 72000 to 72999
+2025-01-07 14:03:44,583 - INFO - Batch 73 processed and saved.
+2025-01-07 14:03:44,583 - INFO - Processing batch 74: rows 73000 to 73999
+2025-01-07 14:05:46,486 - INFO - Batch 74 processed and saved.
+2025-01-07 14:05:46,486 - INFO - Processing batch 75: rows 74000 to 74999
+2025-01-07 14:08:08,860 - INFO - Batch 75 processed and saved.
+2025-01-07 14:08:08,860 - INFO - Processing batch 76: rows 75000 to 75999
+2025-01-07 14:10:27,561 - INFO - Batch 76 processed and saved.
+2025-01-07 14:10:27,561 - INFO - Processing batch 77: rows 76000 to 76999
+2025-01-07 14:12:34,970 - INFO - Batch 77 processed and saved.
+2025-01-07 14:12:34,970 - INFO - Processing batch 78: rows 77000 to 77999
+2025-01-07 14:14:36,922 - INFO - Batch 78 processed and saved.
+2025-01-07 14:14:36,922 - INFO - Processing batch 79: rows 78000 to 78999
+2025-01-07 14:16:35,766 - INFO - Batch 79 processed and saved.
+2025-01-07 14:16:35,766 - INFO - Processing batch 80: rows 79000 to 79999
+2025-01-07 14:18:38,154 - INFO - Batch 80 processed and saved.
+2025-01-07 14:18:38,154 - INFO - Processing batch 81: rows 80000 to 80999
+2025-01-07 14:20:58,809 - INFO - Batch 81 processed and saved.
+2025-01-07 14:20:58,809 - INFO - Processing batch 82: rows 81000 to 81999
+2025-01-07 14:23:37,170 - INFO - Batch 82 processed and saved.
+2025-01-07 14:23:37,170 - INFO - Processing batch 83: rows 82000 to 82999
+2025-01-07 14:26:21,734 - INFO - Batch 83 processed and saved.
+2025-01-07 14:26:21,734 - INFO - Processing batch 84: rows 83000 to 83999
+2025-01-07 14:28:35,172 - INFO - Batch 84 processed and saved.
+2025-01-07 14:28:35,172 - INFO - Processing batch 85: rows 84000 to 84999
+2025-01-07 14:31:11,599 - INFO - Batch 85 processed and saved.
+2025-01-07 14:31:11,599 - INFO - Processing batch 86: rows 85000 to 85999
+2025-01-07 14:33:52,671 - INFO - Batch 86 processed and saved.
+2025-01-07 14:33:52,671 - INFO - Processing batch 87: rows 86000 to 86999
+2025-01-07 14:36:14,699 - INFO - Batch 87 processed and saved.
+2025-01-07 14:36:14,699 - INFO - Processing batch 88: rows 87000 to 87999
+2025-01-07 14:38:41,452 - INFO - Batch 88 processed and saved.
+2025-01-07 14:38:41,452 - INFO - Processing batch 89: rows 88000 to 88999
+2025-01-07 14:41:29,936 - INFO - Batch 89 processed and saved.
+2025-01-07 14:41:29,936 - INFO - Processing batch 90: rows 89000 to 89999
+2025-01-07 14:43:45,805 - INFO - Batch 90 processed and saved.
+2025-01-07 14:43:45,805 - INFO - Processing batch 91: rows 90000 to 90999
+2025-01-07 14:45:40,742 - INFO - Batch 91 processed and saved.
+2025-01-07 14:45:40,742 - INFO - Processing batch 92: rows 91000 to 91999
+2025-01-07 14:47:29,555 - INFO - Batch 92 processed and saved.
+2025-01-07 14:47:29,555 - INFO - Processing batch 93: rows 92000 to 92999
+2025-01-07 14:49:17,854 - INFO - Batch 93 processed and saved.
+2025-01-07 14:49:17,854 - INFO - Processing batch 94: rows 93000 to 93999
+2025-01-07 14:51:07,068 - INFO - Batch 94 processed and saved.
+2025-01-07 14:51:07,068 - INFO - Processing batch 95: rows 94000 to 94999
+2025-01-07 14:53:19,651 - INFO - Batch 95 processed and saved.
+2025-01-07 14:53:19,651 - INFO - Processing batch 96: rows 95000 to 95999
+2025-01-07 14:55:08,971 - INFO - Batch 96 processed and saved.
+2025-01-07 14:55:08,971 - INFO - Processing batch 97: rows 96000 to 96999
+2025-01-07 14:56:50,758 - INFO - Batch 97 processed and saved.
+2025-01-07 14:56:50,758 - INFO - Processing batch 98: rows 97000 to 97999
+2025-01-07 14:58:48,127 - INFO - Batch 98 processed and saved.
+2025-01-07 14:58:48,127 - INFO - Processing batch 99: rows 98000 to 98999
+2025-01-07 15:00:47,693 - INFO - Batch 99 processed and saved.
+2025-01-07 15:00:47,693 - INFO - Processing batch 100: rows 99000 to 99999
+2025-01-07 15:02:41,992 - INFO - Batch 100 processed and saved.
+2025-01-07 15:02:41,992 - INFO - Processing batch 101: rows 100000 to 100999
+2025-01-07 15:04:51,908 - INFO - Batch 101 processed and saved.
+2025-01-07 15:04:51,908 - INFO - Processing batch 102: rows 101000 to 101999
+2025-01-07 15:06:58,846 - INFO - Batch 102 processed and saved.
+2025-01-07 15:06:58,846 - INFO - Processing batch 103: rows 102000 to 102999
+2025-01-07 15:09:02,377 - INFO - Batch 103 processed and saved.
+2025-01-07 15:09:02,377 - INFO - Processing batch 104: rows 103000 to 103999
+2025-01-07 15:11:21,827 - INFO - Batch 104 processed and saved.
+2025-01-07 15:11:21,827 - INFO - Processing batch 105: rows 104000 to 104999
+2025-01-07 15:13:18,822 - INFO - Batch 105 processed and saved.
+2025-01-07 15:13:18,822 - INFO - Processing batch 106: rows 105000 to 105999
+2025-01-07 15:15:24,124 - INFO - Batch 106 processed and saved.
+2025-01-07 15:15:24,124 - INFO - Processing batch 107: rows 106000 to 106999
+2025-01-07 15:17:27,272 - INFO - Batch 107 processed and saved.
+2025-01-07 15:17:27,288 - INFO - Processing batch 108: rows 107000 to 107999
+2025-01-07 15:19:09,950 - INFO - Batch 108 processed and saved.
+2025-01-07 15:19:09,950 - INFO - Processing batch 109: rows 108000 to 108999
+2025-01-07 15:20:58,478 - INFO - Batch 109 processed and saved.
+2025-01-07 15:20:58,478 - INFO - Processing batch 110: rows 109000 to 109999
+2025-01-07 15:22:36,417 - INFO - Batch 110 processed and saved.
+2025-01-07 15:22:36,417 - INFO - Processing batch 111: rows 110000 to 110999
+2025-01-07 15:24:18,084 - INFO - Batch 111 processed and saved.
+2025-01-07 15:24:18,084 - INFO - Processing batch 112: rows 111000 to 111999
+2025-01-07 15:26:21,723 - INFO - Batch 112 processed and saved.
+2025-01-07 15:26:21,723 - INFO - Processing batch 113: rows 112000 to 112999
+2025-01-07 15:28:12,845 - INFO - Batch 113 processed and saved.
+2025-01-07 15:28:12,845 - INFO - Processing batch 114: rows 113000 to 113999
+2025-01-07 15:30:01,274 - INFO - Batch 114 processed and saved.
+2025-01-07 15:30:01,289 - INFO - Processing batch 115: rows 114000 to 114999
+2025-01-07 15:32:08,120 - INFO - Batch 115 processed and saved.
+2025-01-07 15:32:08,120 - INFO - Processing batch 116: rows 115000 to 115999
+2025-01-07 15:34:14,643 - INFO - Batch 116 processed and saved.
+2025-01-07 15:34:14,643 - INFO - Processing batch 117: rows 116000 to 116999
+2025-01-07 15:36:08,577 - INFO - Batch 117 processed and saved.
+2025-01-07 15:36:08,577 - INFO - Processing batch 118: rows 117000 to 117999
+2025-01-07 15:38:16,259 - INFO - Batch 118 processed and saved.
+2025-01-07 15:38:16,259 - INFO - Processing batch 119: rows 118000 to 118999
+2025-01-07 15:40:08,748 - INFO - Batch 119 processed and saved.
+2025-01-07 15:40:08,748 - INFO - Processing batch 120: rows 119000 to 119999
+2025-01-07 15:42:40,912 - INFO - Batch 120 processed and saved.
+2025-01-07 15:42:40,912 - INFO - Processing batch 121: rows 120000 to 120999
+2025-01-07 15:44:23,389 - INFO - Batch 121 processed and saved.
+2025-01-07 15:44:23,389 - INFO - Processing batch 122: rows 121000 to 121999
+2025-01-07 15:45:57,690 - INFO - Batch 122 processed and saved.
+2025-01-07 15:45:57,690 - INFO - Processing batch 123: rows 122000 to 122999
+2025-01-07 15:47:46,530 - INFO - Batch 123 processed and saved.
+2025-01-07 15:47:46,530 - INFO - Processing batch 124: rows 123000 to 123999
+2025-01-07 15:49:31,872 - INFO - Batch 124 processed and saved.
+2025-01-07 15:49:31,872 - INFO - Processing batch 125: rows 124000 to 124999
+2025-01-07 15:51:23,666 - INFO - Batch 125 processed and saved.
+2025-01-07 15:51:23,666 - INFO - Processing batch 126: rows 125000 to 125999
+2025-01-07 15:53:38,265 - INFO - Batch 126 processed and saved.
+2025-01-07 15:53:38,265 - INFO - Processing batch 127: rows 126000 to 126999
+2025-01-07 15:55:26,565 - INFO - Batch 127 processed and saved.
+2025-01-07 15:55:26,565 - INFO - Processing batch 128: rows 127000 to 127999
+2025-01-07 15:57:24,781 - INFO - Batch 128 processed and saved.
+2025-01-07 15:57:24,781 - INFO - Processing batch 129: rows 128000 to 128999
+2025-01-07 15:59:37,508 - INFO - Batch 129 processed and saved.
+2025-01-07 15:59:37,522 - INFO - Processing batch 130: rows 129000 to 129999
+2025-01-07 16:01:35,931 - INFO - Batch 130 processed and saved.
+2025-01-07 16:01:35,947 - INFO - Processing batch 131: rows 130000 to 130999
+2025-01-07 16:03:47,392 - INFO - Batch 131 processed and saved.
+2025-01-07 16:03:47,392 - INFO - Processing batch 132: rows 131000 to 131999
+2025-01-07 16:05:47,925 - INFO - Batch 132 processed and saved.
+2025-01-07 16:05:47,925 - INFO - Processing batch 133: rows 132000 to 132999
+2025-01-07 16:07:59,027 - INFO - Batch 133 processed and saved.
+2025-01-07 16:07:59,027 - INFO - Processing batch 134: rows 133000 to 133999
+2025-01-07 16:10:09,660 - WARNING - Retry 1/3 for manager_id 9379856: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/9379856/
+2025-01-07 16:10:10,099 - WARNING - Retry 1/3 for manager_id 9010438: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/9010438/
+2025-01-07 16:10:10,341 - WARNING - Retry 1/3 for manager_id 9151373: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/9151373/
+2025-01-07 16:10:10,529 - WARNING - Retry 1/3 for manager_id 9275876: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/9275876/
+2025-01-07 16:10:30,178 - INFO - Batch 134 processed and saved.
+2025-01-07 16:10:30,178 - INFO - Processing batch 135: rows 134000 to 134999
+2025-01-07 16:13:20,563 - INFO - Batch 135 processed and saved.
+2025-01-07 16:13:20,563 - INFO - Processing batch 136: rows 135000 to 135999
+2025-01-07 16:15:26,001 - INFO - Batch 136 processed and saved.
+2025-01-07 16:15:26,001 - INFO - Processing batch 137: rows 136000 to 136999
+2025-01-07 16:17:56,223 - INFO - Batch 137 processed and saved.
+2025-01-07 16:17:56,223 - INFO - Processing batch 138: rows 137000 to 137999
+2025-01-07 16:20:08,262 - INFO - Batch 138 processed and saved.
+2025-01-07 16:20:08,262 - INFO - Processing batch 139: rows 138000 to 138999
+2025-01-07 16:22:15,498 - INFO - Batch 139 processed and saved.
+2025-01-07 16:22:15,498 - INFO - Processing batch 140: rows 139000 to 139999
+2025-01-07 16:24:10,442 - INFO - Batch 140 processed and saved.
+2025-01-07 16:24:10,442 - INFO - Processing batch 141: rows 140000 to 140999
+2025-01-07 16:26:08,101 - INFO - Batch 141 processed and saved.
+2025-01-07 16:26:08,101 - INFO - Processing batch 142: rows 141000 to 141999
+2025-01-07 16:28:00,496 - INFO - Batch 142 processed and saved.
+2025-01-07 16:28:00,496 - INFO - Processing batch 143: rows 142000 to 142999
+2025-01-07 16:30:15,484 - INFO - Batch 143 processed and saved.
+2025-01-07 16:30:15,484 - INFO - Processing batch 144: rows 143000 to 143999
+2025-01-07 16:32:45,957 - INFO - Batch 144 processed and saved.
+2025-01-07 16:32:45,957 - INFO - Processing batch 145: rows 144000 to 144999
+2025-01-07 16:34:50,262 - INFO - Batch 145 processed and saved.
+2025-01-07 16:34:50,262 - INFO - Processing batch 146: rows 145000 to 145999
+2025-01-07 16:37:12,313 - INFO - Batch 146 processed and saved.
+2025-01-07 16:37:12,316 - INFO - Processing batch 147: rows 146000 to 146999
+2025-01-07 16:39:14,234 - INFO - Batch 147 processed and saved.
+2025-01-07 16:39:14,234 - INFO - Processing batch 148: rows 147000 to 147999
+2025-01-07 16:41:18,335 - INFO - Batch 148 processed and saved.
+2025-01-07 16:41:18,335 - INFO - Processing batch 149: rows 148000 to 148999
+2025-01-07 16:43:23,958 - INFO - Batch 149 processed and saved.
+2025-01-07 16:43:23,958 - INFO - Processing batch 150: rows 149000 to 149999
+2025-01-07 16:45:32,832 - INFO - Batch 150 processed and saved.
+2025-01-07 16:45:32,846 - INFO - Processing batch 151: rows 150000 to 150999
+2025-01-07 16:47:38,424 - INFO - Batch 151 processed and saved.
+2025-01-07 16:47:38,424 - INFO - Processing batch 152: rows 151000 to 151999
+2025-01-07 16:50:01,859 - INFO - Batch 152 processed and saved.
+2025-01-07 16:50:01,859 - INFO - Processing batch 153: rows 152000 to 152999
+2025-01-07 16:51:54,654 - INFO - Batch 153 processed and saved.
+2025-01-07 16:51:54,654 - INFO - Processing batch 154: rows 153000 to 153999
+2025-01-07 16:53:47,334 - INFO - Batch 154 processed and saved.
+2025-01-07 16:53:47,334 - INFO - Processing batch 155: rows 154000 to 154999
+2025-01-07 16:55:46,853 - INFO - Batch 155 processed and saved.
+2025-01-07 16:55:46,853 - INFO - Processing batch 156: rows 155000 to 155999
+2025-01-07 16:58:05,630 - INFO - Batch 156 processed and saved.
+2025-01-07 16:58:05,630 - INFO - Processing batch 157: rows 156000 to 156999
+2025-01-07 17:00:24,232 - INFO - Batch 157 processed and saved.
+2025-01-07 17:00:24,232 - INFO - Processing batch 158: rows 157000 to 157999
+2025-01-07 17:02:41,202 - INFO - Batch 158 processed and saved.
+2025-01-07 17:02:41,206 - INFO - Processing batch 159: rows 158000 to 158999
+2025-01-07 17:03:46,410 - WARNING - Retry 1/3 for manager_id 8985107: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 17:05:09,392 - INFO - Batch 159 processed and saved.
+2025-01-07 17:05:09,403 - INFO - Processing batch 160: rows 159000 to 159999
+2025-01-07 17:07:15,796 - INFO - Batch 160 processed and saved.
+2025-01-07 17:07:15,796 - INFO - Processing batch 161: rows 160000 to 160999
+2025-01-07 17:09:15,500 - INFO - Batch 161 processed and saved.
+2025-01-07 17:09:15,500 - INFO - Processing batch 162: rows 161000 to 161999
+2025-01-07 17:11:23,745 - INFO - Batch 162 processed and saved.
+2025-01-07 17:11:23,745 - INFO - Processing batch 163: rows 162000 to 162999
+2025-01-07 17:13:11,796 - INFO - Batch 163 processed and saved.
+2025-01-07 17:13:11,796 - INFO - Processing batch 164: rows 163000 to 163999
+2025-01-07 17:15:25,968 - INFO - Batch 164 processed and saved.
+2025-01-07 17:15:25,968 - INFO - Processing batch 165: rows 164000 to 164999
+2025-01-07 17:17:29,627 - INFO - Batch 165 processed and saved.
+2025-01-07 17:17:29,627 - INFO - Processing batch 166: rows 165000 to 165999
+2025-01-07 17:19:23,009 - INFO - Batch 166 processed and saved.
+2025-01-07 17:19:23,009 - INFO - Processing batch 167: rows 166000 to 166999
+2025-01-07 17:22:08,800 - INFO - Batch 167 processed and saved.
+2025-01-07 17:22:08,800 - INFO - Processing batch 168: rows 167000 to 167999
+2025-01-07 17:25:37,901 - INFO - Batch 168 processed and saved.
+2025-01-07 17:25:37,901 - INFO - Processing batch 169: rows 168000 to 168999
+2025-01-07 17:28:20,249 - INFO - Batch 169 processed and saved.
+2025-01-07 17:28:20,249 - INFO - Processing batch 170: rows 169000 to 169999
+2025-01-07 17:30:55,020 - INFO - Batch 170 processed and saved.
+2025-01-07 17:30:55,020 - INFO - Processing batch 171: rows 170000 to 170999
+2025-01-07 17:34:14,148 - INFO - Batch 171 processed and saved.
+2025-01-07 17:34:14,162 - INFO - Processing batch 172: rows 171000 to 171999
+2025-01-07 17:37:17,755 - INFO - Batch 172 processed and saved.
+2025-01-07 17:37:17,755 - INFO - Processing batch 173: rows 172000 to 172999
+2025-01-07 17:39:59,681 - INFO - Batch 173 processed and saved.
+2025-01-07 17:39:59,681 - INFO - Processing batch 174: rows 173000 to 173999
+2025-01-07 17:43:02,040 - INFO - Batch 174 processed and saved.
+2025-01-07 17:43:02,040 - INFO - Processing batch 175: rows 174000 to 174999
+2025-01-07 17:45:22,096 - INFO - Batch 175 processed and saved.
+2025-01-07 17:45:22,096 - INFO - Processing batch 176: rows 175000 to 175999
+2025-01-07 17:48:13,373 - INFO - Batch 176 processed and saved.
+2025-01-07 17:48:13,373 - INFO - Processing batch 177: rows 176000 to 176999
+2025-01-07 17:48:32,590 - WARNING - Retry 1/3 for manager_id 7152170: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 17:48:32,591 - WARNING - Retry 1/3 for manager_id 7620651: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 17:51:23,723 - INFO - Batch 177 processed and saved.
+2025-01-07 17:51:23,725 - INFO - Processing batch 178: rows 177000 to 177999
+2025-01-07 17:54:03,364 - INFO - Batch 178 processed and saved.
+2025-01-07 17:54:03,364 - INFO - Processing batch 179: rows 178000 to 178999
+2025-01-07 17:56:56,675 - INFO - Batch 179 processed and saved.
+2025-01-07 17:56:56,675 - INFO - Processing batch 180: rows 179000 to 179999
+2025-01-07 17:59:37,961 - INFO - Batch 180 processed and saved.
+2025-01-07 17:59:37,961 - INFO - Processing batch 181: rows 180000 to 180999
+2025-01-07 18:02:24,733 - INFO - Batch 181 processed and saved.
+2025-01-07 18:02:24,733 - INFO - Processing batch 182: rows 181000 to 181999
+2025-01-07 18:04:39,345 - INFO - Batch 182 processed and saved.
+2025-01-07 18:04:39,345 - INFO - Processing batch 183: rows 182000 to 182999
+2025-01-07 18:06:38,947 - INFO - Batch 183 processed and saved.
+2025-01-07 18:06:38,947 - INFO - Processing batch 184: rows 183000 to 183999
+2025-01-07 18:08:34,573 - INFO - Batch 184 processed and saved.
+2025-01-07 18:08:34,573 - INFO - Processing batch 185: rows 184000 to 184999
+2025-01-07 18:10:57,312 - INFO - Batch 185 processed and saved.
+2025-01-07 18:10:57,312 - INFO - Processing batch 186: rows 185000 to 185999
+2025-01-07 18:13:28,251 - INFO - Batch 186 processed and saved.
+2025-01-07 18:13:28,251 - INFO - Processing batch 187: rows 186000 to 186999
+2025-01-07 18:16:28,038 - INFO - Batch 187 processed and saved.
+2025-01-07 18:16:28,038 - INFO - Processing batch 188: rows 187000 to 187999
+2025-01-07 18:19:23,728 - INFO - Batch 188 processed and saved.
+2025-01-07 18:19:23,735 - INFO - Processing batch 189: rows 188000 to 188999
+2025-01-07 18:19:58,919 - WARNING - Retry 1/3 for manager_id 1816156: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/1816156/
+2025-01-07 18:20:06,046 - WARNING - Retry 1/3 for manager_id 6665744: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/6665744/
+2025-01-07 18:20:19,624 - WARNING - Retry 1/3 for manager_id 9934065: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/9934065/
+2025-01-07 18:20:21,841 - WARNING - Retry 1/3 for manager_id 7824156: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/7824156/
+2025-01-07 18:20:24,783 - WARNING - Retry 1/3 for manager_id 7598274: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/7598274/
+2025-01-07 18:21:41,800 - INFO - Batch 189 processed and saved.
+2025-01-07 18:21:41,816 - INFO - Processing batch 190: rows 189000 to 189999
+2025-01-07 18:23:56,151 - INFO - Batch 190 processed and saved.
+2025-01-07 18:23:56,151 - INFO - Processing batch 191: rows 190000 to 190999
+2025-01-07 18:25:38,221 - WARNING - Retry 1/3 for manager_id 9735555: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 18:26:42,256 - INFO - Batch 191 processed and saved.
+2025-01-07 18:26:42,256 - INFO - Processing batch 192: rows 191000 to 191999
+2025-01-07 18:29:01,290 - WARNING - Retry 1/3 for manager_id 5760191: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/5760191/
+2025-01-07 18:29:27,355 - WARNING - Retry 1/3 for manager_id 9524468: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/9524468/
+2025-01-07 18:29:40,087 - INFO - Batch 192 processed and saved.
+2025-01-07 18:29:40,087 - INFO - Processing batch 193: rows 192000 to 192999
+2025-01-07 18:30:26,274 - WARNING - Retry 1/3 for manager_id 4256721: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/4256721/
+2025-01-07 18:31:53,122 - INFO - Batch 193 processed and saved.
+2025-01-07 18:31:53,122 - INFO - Processing batch 194: rows 193000 to 193999
+2025-01-07 18:33:54,995 - INFO - Batch 194 processed and saved.
+2025-01-07 18:33:54,995 - INFO - Processing batch 195: rows 194000 to 194999
+2025-01-07 18:36:14,058 - INFO - Batch 195 processed and saved.
+2025-01-07 18:36:14,065 - INFO - Processing batch 196: rows 195000 to 195999
+2025-01-07 18:38:33,242 - INFO - Batch 196 processed and saved.
+2025-01-07 18:38:33,243 - INFO - Processing batch 197: rows 196000 to 196999
+2025-01-07 18:41:00,634 - INFO - Batch 197 processed and saved.
+2025-01-07 18:41:00,634 - INFO - Processing batch 198: rows 197000 to 197999
+2025-01-07 18:43:43,308 - INFO - Batch 198 processed and saved.
+2025-01-07 18:43:43,308 - INFO - Processing batch 199: rows 198000 to 198999
+2025-01-07 18:47:00,254 - INFO - Batch 199 processed and saved.
+2025-01-07 18:47:00,257 - INFO - Processing batch 200: rows 199000 to 199999
+2025-01-07 18:50:21,229 - INFO - Batch 200 processed and saved.
+2025-01-07 18:50:21,229 - INFO - Processing batch 201: rows 200000 to 200999
+2025-01-07 18:53:39,624 - INFO - Batch 201 processed and saved.
+2025-01-07 18:53:39,624 - INFO - Processing batch 202: rows 201000 to 201999
+2025-01-07 18:56:42,436 - INFO - Batch 202 processed and saved.
+2025-01-07 18:56:42,436 - INFO - Processing batch 203: rows 202000 to 202999
+2025-01-07 18:59:21,975 - INFO - Batch 203 processed and saved.
+2025-01-07 18:59:21,978 - INFO - Processing batch 204: rows 203000 to 203999
+2025-01-07 19:02:22,273 - INFO - Batch 204 processed and saved.
+2025-01-07 19:02:22,280 - INFO - Processing batch 205: rows 204000 to 204999
+2025-01-07 19:06:22,744 - INFO - Batch 205 processed and saved.
+2025-01-07 19:06:22,746 - INFO - Processing batch 206: rows 205000 to 205999
+2025-01-07 19:10:26,206 - INFO - Batch 206 processed and saved.
+2025-01-07 19:10:26,206 - INFO - Processing batch 207: rows 206000 to 206999
+2025-01-07 19:14:10,095 - INFO - Batch 207 processed and saved.
+2025-01-07 19:14:10,103 - INFO - Processing batch 208: rows 207000 to 207999
+2025-01-07 19:18:05,069 - INFO - Batch 208 processed and saved.
+2025-01-07 19:18:05,069 - INFO - Processing batch 209: rows 208000 to 208999
+2025-01-07 19:21:26,769 - INFO - Batch 209 processed and saved.
+2025-01-07 19:21:26,769 - INFO - Processing batch 210: rows 209000 to 209999
+2025-01-07 19:24:33,059 - INFO - Batch 210 processed and saved.
+2025-01-07 19:24:33,059 - INFO - Processing batch 211: rows 210000 to 210999
+2025-01-07 19:27:51,849 - INFO - Batch 211 processed and saved.
+2025-01-07 19:27:51,849 - INFO - Processing batch 212: rows 211000 to 211999
+2025-01-07 19:30:46,183 - INFO - Batch 212 processed and saved.
+2025-01-07 19:30:46,199 - INFO - Processing batch 213: rows 212000 to 212999
+2025-01-07 19:33:29,331 - INFO - Batch 213 processed and saved.
+2025-01-07 19:33:29,331 - INFO - Processing batch 214: rows 213000 to 213999
+2025-01-07 19:37:02,023 - INFO - Batch 214 processed and saved.
+2025-01-07 19:37:02,023 - INFO - Processing batch 215: rows 214000 to 214999
+2025-01-07 19:39:24,813 - INFO - Batch 215 processed and saved.
+2025-01-07 19:39:24,813 - INFO - Processing batch 216: rows 215000 to 215999
+2025-01-07 19:41:42,784 - INFO - Batch 216 processed and saved.
+2025-01-07 19:41:42,784 - INFO - Processing batch 217: rows 216000 to 216999
+2025-01-07 19:44:55,907 - INFO - Batch 217 processed and saved.
+2025-01-07 19:44:55,907 - INFO - Processing batch 218: rows 217000 to 217999
+2025-01-07 19:47:26,299 - INFO - Batch 218 processed and saved.
+2025-01-07 19:47:26,299 - INFO - Processing batch 219: rows 218000 to 218999
+2025-01-07 19:50:35,074 - INFO - Batch 219 processed and saved.
+2025-01-07 19:50:35,076 - INFO - Processing batch 220: rows 219000 to 219999
+2025-01-07 19:53:11,619 - INFO - Batch 220 processed and saved.
+2025-01-07 19:53:11,634 - INFO - Processing batch 221: rows 220000 to 220999
+2025-01-07 19:55:26,305 - WARNING - Retry 1/3 for manager_id 3263201: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/3263201/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711A52BAD0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 19:56:13,005 - INFO - Batch 221 processed and saved.
+2025-01-07 19:56:13,005 - INFO - Processing batch 222: rows 221000 to 221999
+2025-01-07 19:59:50,586 - INFO - Batch 222 processed and saved.
+2025-01-07 19:59:50,586 - INFO - Processing batch 223: rows 222000 to 222999
+2025-01-07 20:02:21,513 - INFO - Batch 223 processed and saved.
+2025-01-07 20:02:21,513 - INFO - Processing batch 224: rows 223000 to 223999
+2025-01-07 20:05:02,140 - INFO - Batch 224 processed and saved.
+2025-01-07 20:05:02,140 - INFO - Processing batch 225: rows 224000 to 224999
+2025-01-07 20:07:36,374 - INFO - Batch 225 processed and saved.
+2025-01-07 20:07:36,374 - INFO - Processing batch 226: rows 225000 to 225999
+2025-01-07 20:10:01,838 - INFO - Batch 226 processed and saved.
+2025-01-07 20:10:01,838 - INFO - Processing batch 227: rows 226000 to 226999
+2025-01-07 20:13:07,037 - INFO - Batch 227 processed and saved.
+2025-01-07 20:13:07,038 - INFO - Processing batch 228: rows 227000 to 227999
+2025-01-07 20:17:03,643 - INFO - Batch 228 processed and saved.
+2025-01-07 20:17:03,643 - INFO - Processing batch 229: rows 228000 to 228999
+2025-01-07 20:20:28,358 - INFO - Batch 229 processed and saved.
+2025-01-07 20:20:28,358 - INFO - Processing batch 230: rows 229000 to 229999
+2025-01-07 20:23:16,181 - INFO - Batch 230 processed and saved.
+2025-01-07 20:23:16,181 - INFO - Processing batch 231: rows 230000 to 230999
+2025-01-07 20:25:58,934 - INFO - Batch 231 processed and saved.
+2025-01-07 20:25:58,934 - INFO - Processing batch 232: rows 231000 to 231999
+2025-01-07 20:28:21,099 - INFO - Batch 232 processed and saved.
+2025-01-07 20:28:21,099 - INFO - Processing batch 233: rows 232000 to 232999
+2025-01-07 20:31:36,632 - INFO - Batch 233 processed and saved.
+2025-01-07 20:31:36,632 - INFO - Processing batch 234: rows 233000 to 233999
+2025-01-07 20:34:55,595 - INFO - Batch 234 processed and saved.
+2025-01-07 20:34:55,595 - INFO - Processing batch 235: rows 234000 to 234999
+2025-01-07 20:37:22,410 - INFO - Batch 235 processed and saved.
+2025-01-07 20:37:22,410 - INFO - Processing batch 236: rows 235000 to 235999
+2025-01-07 20:39:47,827 - INFO - Batch 236 processed and saved.
+2025-01-07 20:39:47,827 - INFO - Processing batch 237: rows 236000 to 236999
+2025-01-07 20:42:18,825 - INFO - Batch 237 processed and saved.
+2025-01-07 20:42:18,825 - INFO - Processing batch 238: rows 237000 to 237999
+2025-01-07 20:45:12,979 - INFO - Batch 238 processed and saved.
+2025-01-07 20:45:12,988 - INFO - Processing batch 239: rows 238000 to 238999
+2025-01-07 20:48:01,223 - INFO - Batch 239 processed and saved.
+2025-01-07 20:48:01,238 - INFO - Processing batch 240: rows 239000 to 239999
+2025-01-07 20:50:33,265 - INFO - Batch 240 processed and saved.
+2025-01-07 20:50:33,265 - INFO - Processing batch 241: rows 240000 to 240999
+2025-01-07 20:53:02,597 - INFO - Batch 241 processed and saved.
+2025-01-07 20:53:02,597 - INFO - Processing batch 242: rows 241000 to 241999
+2025-01-07 20:55:33,575 - INFO - Batch 242 processed and saved.
+2025-01-07 20:55:33,575 - INFO - Processing batch 243: rows 242000 to 242999
+2025-01-07 20:58:13,963 - INFO - Batch 243 processed and saved.
+2025-01-07 20:58:13,963 - INFO - Processing batch 244: rows 243000 to 243999
+2025-01-07 20:59:20,564 - WARNING - Retry 1/3 for manager_id 1027720: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/1027720/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BDE8DA0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 20:59:20,624 - WARNING - Retry 1/3 for manager_id 4061078: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/4061078/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711AFE6270>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 20:59:20,641 - WARNING - Retry 1/3 for manager_id 7670477: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/7670477/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BBFBCE0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 20:59:20,641 - WARNING - Retry 1/3 for manager_id 9031481: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9031481/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BBF9B50>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 20:59:20,641 - WARNING - Retry 1/3 for manager_id 5628440: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/5628440/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BBF9070>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 20:59:22,375 - WARNING - Retry 1/3 for manager_id 6143889: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/6143889/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711AFE7230>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 21:01:53,639 - INFO - Batch 244 processed and saved.
+2025-01-07 21:01:53,645 - INFO - Processing batch 245: rows 244000 to 244999
+2025-01-07 21:04:57,646 - WARNING - Retry 1/3 for manager_id 8894751: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 21:05:28,693 - INFO - Batch 245 processed and saved.
+2025-01-07 21:05:28,693 - INFO - Processing batch 246: rows 245000 to 245999
+2025-01-07 21:08:52,739 - INFO - Batch 246 processed and saved.
+2025-01-07 21:08:52,739 - INFO - Processing batch 247: rows 246000 to 246999
+2025-01-07 21:11:37,105 - INFO - Batch 247 processed and saved.
+2025-01-07 21:11:37,105 - INFO - Processing batch 248: rows 247000 to 247999
+2025-01-07 21:15:50,610 - INFO - Batch 248 processed and saved.
+2025-01-07 21:15:50,610 - INFO - Processing batch 249: rows 248000 to 248999
+2025-01-07 21:17:22,487 - WARNING - Retry 1/3 for manager_id 7388905: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/7388905/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711AFE4C50>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 21:21:03,490 - WARNING - Retry 1/3 for manager_id 8394470: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/8394470/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711B422540>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 21:21:41,605 - INFO - Batch 249 processed and saved.
+2025-01-07 21:21:41,619 - INFO - Processing batch 250: rows 249000 to 249999
+2025-01-07 21:26:27,652 - INFO - Batch 250 processed and saved.
+2025-01-07 21:26:27,666 - INFO - Processing batch 251: rows 250000 to 250999
+2025-01-07 21:29:19,167 - INFO - Batch 251 processed and saved.
+2025-01-07 21:29:19,167 - INFO - Processing batch 252: rows 251000 to 251999
+2025-01-07 21:31:31,127 - INFO - Batch 252 processed and saved.
+2025-01-07 21:31:31,127 - INFO - Processing batch 253: rows 252000 to 252999
+2025-01-07 21:33:39,705 - INFO - Batch 253 processed and saved.
+2025-01-07 21:33:39,716 - INFO - Processing batch 254: rows 253000 to 253999
+2025-01-07 21:35:59,245 - INFO - Batch 254 processed and saved.
+2025-01-07 21:35:59,245 - INFO - Processing batch 255: rows 254000 to 254999
+2025-01-07 21:39:09,232 - INFO - Batch 255 processed and saved.
+2025-01-07 21:39:09,232 - INFO - Processing batch 256: rows 255000 to 255999
+2025-01-07 21:43:54,251 - INFO - Batch 256 processed and saved.
+2025-01-07 21:43:54,251 - INFO - Processing batch 257: rows 256000 to 256999
+2025-01-07 21:47:35,228 - INFO - Batch 257 processed and saved.
+2025-01-07 21:47:35,228 - INFO - Processing batch 258: rows 257000 to 257999
+2025-01-07 21:50:59,570 - INFO - Batch 258 processed and saved.
+2025-01-07 21:50:59,570 - INFO - Processing batch 259: rows 258000 to 258999
+2025-01-07 21:53:45,780 - INFO - Batch 259 processed and saved.
+2025-01-07 21:53:45,780 - INFO - Processing batch 260: rows 259000 to 259999
+2025-01-07 21:59:49,211 - INFO - Batch 260 processed and saved.
+2025-01-07 21:59:49,211 - INFO - Processing batch 261: rows 260000 to 260999
+2025-01-07 22:01:55,812 - WARNING - Retry 1/3 for manager_id 6888544: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 22:02:22,932 - WARNING - Retry 1/3 for manager_id 9538100: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 22:02:35,977 - WARNING - Retry 1/3 for manager_id 4844689: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 22:02:50,527 - WARNING - Retry 1/3 for manager_id 9561041: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9561041/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BEDFD10>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 22:03:17,469 - WARNING - Retry 1/3 for manager_id 8393182: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/8393182/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711AC70A10>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 22:03:46,317 - WARNING - Retry 1/3 for manager_id 7328714: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/7328714/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BEDFCB0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 22:04:14,326 - WARNING - Retry 1/3 for manager_id 7348287: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-01-07 22:06:03,544 - INFO - Batch 261 processed and saved.
+2025-01-07 22:06:03,545 - INFO - Processing batch 262: rows 261000 to 261999
+2025-01-07 22:10:47,580 - INFO - Batch 262 processed and saved.
+2025-01-07 22:10:47,580 - INFO - Processing batch 263: rows 262000 to 262999
+2025-01-07 22:14:40,519 - INFO - Batch 263 processed and saved.
+2025-01-07 22:14:40,519 - INFO - Processing batch 264: rows 263000 to 263999
+2025-01-07 22:18:46,858 - INFO - Batch 264 processed and saved.
+2025-01-07 22:18:46,858 - INFO - Processing batch 265: rows 264000 to 264999
+2025-01-07 22:22:09,260 - INFO - Batch 265 processed and saved.
+2025-01-07 22:22:09,260 - INFO - Processing batch 266: rows 265000 to 265999
+2025-01-07 22:25:41,189 - INFO - Batch 266 processed and saved.
+2025-01-07 22:25:41,189 - INFO - Processing batch 267: rows 266000 to 266999
+2025-01-07 22:28:21,970 - WARNING - Retry 1/3 for manager_id 9355627: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9355627/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711B9225D0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 22:28:21,970 - WARNING - Retry 1/3 for manager_id 9421794: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9421794/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C0E6900>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 22:28:22,098 - WARNING - Retry 1/3 for manager_id 9935960: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9935960/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000027119102210>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 22:28:22,098 - WARNING - Retry 1/3 for manager_id 9958206: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9958206/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C0E42F0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 22:30:08,279 - INFO - Batch 267 processed and saved.
+2025-01-07 22:30:08,281 - INFO - Processing batch 268: rows 267000 to 267999
+2025-01-07 22:33:04,827 - WARNING - Retry 1/3 for manager_id 2386699: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/2386699/
+2025-01-07 22:34:35,418 - INFO - Batch 268 processed and saved.
+2025-01-07 22:34:35,418 - INFO - Processing batch 269: rows 268000 to 268999
+2025-01-07 22:38:11,186 - INFO - Batch 269 processed and saved.
+2025-01-07 22:38:11,186 - INFO - Processing batch 270: rows 269000 to 269999
+2025-01-07 22:40:14,380 - INFO - Batch 270 processed and saved.
+2025-01-07 22:40:14,380 - INFO - Processing batch 271: rows 270000 to 270999
+2025-01-07 22:43:24,205 - INFO - Batch 271 processed and saved.
+2025-01-07 22:43:24,205 - INFO - Processing batch 272: rows 271000 to 271999
+2025-01-07 22:46:00,347 - INFO - Batch 272 processed and saved.
+2025-01-07 22:46:00,361 - INFO - Processing batch 273: rows 272000 to 272999
+2025-01-07 22:48:47,090 - INFO - Batch 273 processed and saved.
+2025-01-07 22:48:47,090 - INFO - Processing batch 274: rows 273000 to 273999
+2025-01-07 22:51:06,466 - INFO - Batch 274 processed and saved.
+2025-01-07 22:51:06,480 - INFO - Processing batch 275: rows 274000 to 274999
+2025-01-07 22:53:05,013 - INFO - Batch 275 processed and saved.
+2025-01-07 22:53:05,013 - INFO - Processing batch 276: rows 275000 to 275999
+2025-01-07 22:55:04,463 - INFO - Batch 276 processed and saved.
+2025-01-07 22:55:04,463 - INFO - Processing batch 277: rows 276000 to 276999
+2025-01-07 22:57:14,558 - INFO - Batch 277 processed and saved.
+2025-01-07 22:57:14,558 - INFO - Processing batch 278: rows 277000 to 277999
+2025-01-07 23:01:45,695 - INFO - Batch 278 processed and saved.
+2025-01-07 23:01:45,709 - INFO - Processing batch 279: rows 278000 to 278999
+2025-01-07 23:04:06,201 - INFO - Batch 279 processed and saved.
+2025-01-07 23:04:06,201 - INFO - Processing batch 280: rows 279000 to 279999
+2025-01-07 23:06:31,876 - INFO - Batch 280 processed and saved.
+2025-01-07 23:06:31,876 - INFO - Processing batch 281: rows 280000 to 280999
+2025-01-07 23:08:55,184 - INFO - Batch 281 processed and saved.
+2025-01-07 23:08:55,184 - INFO - Processing batch 282: rows 281000 to 281999
+2025-01-07 23:09:04,947 - WARNING - Retry 1/3 for manager_id 10227815: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/10227815/
+2025-01-07 23:11:04,473 - INFO - Batch 282 processed and saved.
+2025-01-07 23:11:04,473 - INFO - Processing batch 283: rows 282000 to 282999
+2025-01-07 23:13:29,565 - INFO - Batch 283 processed and saved.
+2025-01-07 23:13:29,565 - INFO - Processing batch 284: rows 283000 to 283999
+2025-01-07 23:16:17,767 - INFO - Batch 284 processed and saved.
+2025-01-07 23:16:17,767 - INFO - Processing batch 285: rows 284000 to 284999
+2025-01-07 23:20:02,587 - INFO - Batch 285 processed and saved.
+2025-01-07 23:20:02,587 - INFO - Processing batch 286: rows 285000 to 285999
+2025-01-07 23:22:43,485 - INFO - Batch 286 processed and saved.
+2025-01-07 23:22:43,485 - INFO - Processing batch 287: rows 286000 to 286999
+2025-01-07 23:25:06,824 - INFO - Batch 287 processed and saved.
+2025-01-07 23:25:06,824 - INFO - Processing batch 288: rows 287000 to 287999
+2025-01-07 23:26:45,448 - WARNING - Retry 1/3 for manager_id 10004583: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10004583/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C4D67B0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:20,242 - WARNING - Retry 1/3 for manager_id 9825170: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9825170/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C5894C0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:20,244 - WARNING - Retry 1/3 for manager_id 6665613: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/6665613/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C11E0C0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:20,244 - WARNING - Retry 1/3 for manager_id 8247779: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/8247779/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C11F860>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:27,027 - WARNING - Retry 1/3 for manager_id 10502368: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10502368/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C4D5C40>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:27,044 - WARNING - Retry 1/3 for manager_id 8810571: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/8810571/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C58B440>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:46,526 - WARNING - Retry 1/3 for manager_id 5581762: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/5581762/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C589A00>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:46,579 - WARNING - Retry 1/3 for manager_id 3548032: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/3548032/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C591C10>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:46,579 - WARNING - Retry 1/3 for manager_id 10410623: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10410623/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C58B230>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:53,991 - WARNING - Retry 1/3 for manager_id 9881376: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9881376/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BEF6720>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:54,007 - WARNING - Retry 1/3 for manager_id 1658537: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/1658537/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BEF4E60>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:54,059 - WARNING - Retry 1/3 for manager_id 2260140: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/2260140/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C590950>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:27:54,125 - WARNING - Retry 1/3 for manager_id 10059373: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10059373/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C593500>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:01,642 - WARNING - Retry 1/3 for manager_id 10186697: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10186697/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BDDA000>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:08,627 - WARNING - Retry 2/3 for manager_id 3548032: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/3548032/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BEDF440>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:08,635 - WARNING - Retry 2/3 for manager_id 10410623: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10410623/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C1D8650>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:15,420 - WARNING - Retry 1/3 for manager_id 8848484: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/8848484/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C575190>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:16,048 - WARNING - Retry 2/3 for manager_id 1658537: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/1658537/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C5922A0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:16,049 - WARNING - Retry 2/3 for manager_id 9881376: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9881376/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000027116AB6F30>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:16,106 - WARNING - Retry 2/3 for manager_id 2260140: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/2260140/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C105AF0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:21,758 - WARNING - Retry 1/3 for manager_id 9526075: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9526075/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C130BC0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:22,458 - WARNING - Retry 1/3 for manager_id 6328584: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/6328584/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C153C80>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:28,092 - WARNING - Retry 1/3 for manager_id 10287069: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10287069/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C0FC950>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:28,458 - WARNING - Retry 1/3 for manager_id 954961: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/954961/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711B3EC710>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:43,312 - WARNING - Retry 1/3 for manager_id 3556182: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/3556182/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C11F620>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:43,719 - WARNING - Retry 1/3 for manager_id 7021434: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/7021434/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C107E30>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:43,720 - WARNING - Retry 1/3 for manager_id 1956436: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/1956436/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711B9ED5B0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:43,818 - WARNING - Retry 2/3 for manager_id 9526075: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9526075/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711B3EC470>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:43,888 - WARNING - Retry 1/3 for manager_id 4394484: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/4394484/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C1D89E0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:28:43,955 - WARNING - Retry 1/3 for manager_id 865141: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/865141/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711B9EEAE0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,072 - WARNING - Retry 1/3 for manager_id 10044448: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10044448/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C132420>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,074 - WARNING - Retry 1/3 for manager_id 10136207: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10136207/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C152CC0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,088 - WARNING - Retry 1/3 for manager_id 10031621: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10031621/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C1130B0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,089 - WARNING - Retry 1/3 for manager_id 9799191: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9799191/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C1DAC30>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,519 - WARNING - Retry 1/3 for manager_id 10054698: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10054698/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711AA5DD30>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,553 - WARNING - Retry 1/3 for manager_id 10119422: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10119422/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711BEDC320>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,616 - WARNING - Retry 1/3 for manager_id 10162502: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10162502/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C150200>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,616 - WARNING - Retry 1/3 for manager_id 10400881: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/10400881/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711AA5F470>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,632 - WARNING - Retry 1/3 for manager_id 5778027: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/5778027/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C150110>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:29:16,700 - WARNING - Retry 1/3 for manager_id 7400883: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/7400883/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000027116C5FB30>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:30:00,714 - WARNING - Retry 1/3 for manager_id 9733626: HTTPSConnectionPool(host='fantasy.premierleague.com', port=443): Max retries exceeded with url: /api/entry/9733626/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002711C76A7B0>, 'Connection to fantasy.premierleague.com timed out. (connect timeout=None)'))
+2025-01-07 23:30:47,307 - INFO - Batch 288 processed and saved.
+2025-01-07 23:30:47,307 - INFO - Processing batch 289: rows 288000 to 288999
+2025-01-07 23:33:34,247 - INFO - Batch 289 processed and saved.
+2025-01-07 23:33:34,247 - INFO - Processing batch 290: rows 289000 to 289999
+2025-01-07 23:35:47,980 - INFO - Batch 290 processed and saved.
+2025-01-07 23:35:47,980 - INFO - Processing batch 291: rows 290000 to 290999
+2025-01-07 23:37:35,478 - INFO - Batch 291 processed and saved.
+2025-01-07 23:37:35,478 - INFO - Processing batch 292: rows 291000 to 291999
+2025-01-07 23:39:19,341 - INFO - Batch 292 processed and saved.
+2025-01-07 23:39:19,341 - INFO - Processing batch 293: rows 292000 to 292999
+2025-01-07 23:40:50,038 - INFO - Batch 293 processed and saved.
+2025-01-07 23:40:50,048 - INFO - Processing batch 294: rows 293000 to 293999
+2025-01-07 23:42:45,425 - INFO - Batch 294 processed and saved.
+2025-01-07 23:42:45,425 - INFO - Processing batch 295: rows 294000 to 294999
+2025-01-07 23:44:26,715 - INFO - Batch 295 processed and saved.
+2025-01-07 23:44:26,715 - INFO - Processing batch 296: rows 295000 to 295999
+2025-01-07 23:46:04,107 - INFO - Batch 296 processed and saved.
+2025-01-07 23:46:04,107 - INFO - Processing batch 297: rows 296000 to 296999
+2025-01-07 23:47:41,046 - INFO - Batch 297 processed and saved.
+2025-01-07 23:47:41,046 - INFO - Processing batch 298: rows 297000 to 297999
+2025-01-07 23:49:30,551 - INFO - Batch 298 processed and saved.
+2025-01-07 23:49:30,551 - INFO - Processing batch 299: rows 298000 to 298999
+2025-01-07 23:51:12,965 - INFO - Batch 299 processed and saved.
+2025-01-07 23:51:12,965 - INFO - Processing batch 300: rows 299000 to 299999
+2025-01-07 23:52:33,587 - INFO - Batch 300 processed and saved.
+2025-01-07 23:52:33,587 - INFO - Processing batch 301: rows 300000 to 300999
+2025-01-07 23:53:50,363 - INFO - Batch 301 processed and saved.
+2025-01-07 23:53:50,363 - INFO - Processing batch 302: rows 301000 to 301999
+2025-01-07 23:55:19,222 - INFO - Batch 302 processed and saved.
+2025-01-07 23:55:19,222 - INFO - Processing batch 303: rows 302000 to 302999
+2025-01-07 23:57:00,409 - INFO - Batch 303 processed and saved.
+2025-01-07 23:57:00,424 - INFO - Processing batch 304: rows 303000 to 303999
+2025-01-07 23:58:31,169 - INFO - Batch 304 processed and saved.
+2025-01-07 23:58:31,169 - INFO - Processing batch 305: rows 304000 to 304999
+2025-01-07 23:59:51,914 - INFO - Batch 305 processed and saved.
+2025-01-07 23:59:51,914 - INFO - Processing batch 306: rows 305000 to 305999
+2025-01-08 00:01:08,750 - INFO - Batch 306 processed and saved.
+2025-01-08 00:01:08,750 - INFO - Processing batch 307: rows 306000 to 306999
+2025-01-08 00:02:21,552 - INFO - Batch 307 processed and saved.
+2025-01-08 00:02:21,552 - INFO - Processing batch 308: rows 307000 to 307999
+2025-01-08 00:03:37,158 - INFO - Batch 308 processed and saved.
+2025-01-08 00:03:37,158 - INFO - Processing batch 309: rows 308000 to 308999
+2025-01-08 00:04:53,555 - INFO - Batch 309 processed and saved.
+2025-01-08 00:04:53,555 - INFO - Processing batch 310: rows 309000 to 309999
+2025-01-08 00:06:20,906 - INFO - Batch 310 processed and saved.
+2025-01-08 00:06:20,906 - INFO - Processing batch 311: rows 310000 to 310999
+2025-01-08 00:07:39,080 - INFO - Batch 311 processed and saved.
+2025-01-08 00:07:39,080 - INFO - Processing batch 312: rows 311000 to 311999
+2025-01-08 00:09:16,275 - INFO - Batch 312 processed and saved.
+2025-01-08 00:09:16,275 - INFO - Processing batch 313: rows 312000 to 312999
+2025-01-08 00:10:35,236 - INFO - Batch 313 processed and saved.
+2025-01-08 00:10:35,236 - INFO - Processing batch 314: rows 313000 to 313999
+2025-01-08 00:12:35,969 - INFO - Batch 314 processed and saved.
+2025-01-08 00:12:35,969 - INFO - Processing batch 315: rows 314000 to 314999
+2025-01-08 00:13:56,607 - INFO - Batch 315 processed and saved.
+2025-01-08 00:13:56,607 - INFO - Processing batch 316: rows 315000 to 315999
+2025-01-08 00:15:25,511 - INFO - Batch 316 processed and saved.
+2025-01-08 00:15:25,511 - INFO - Processing batch 317: rows 316000 to 316999
+2025-01-08 00:16:54,743 - INFO - Batch 317 processed and saved.
+2025-01-08 00:16:54,743 - INFO - Processing batch 318: rows 317000 to 317999
+2025-01-08 00:18:26,998 - INFO - Batch 318 processed and saved.
+2025-01-08 00:18:26,998 - INFO - Processing batch 319: rows 318000 to 318999
+2025-01-08 00:19:51,656 - INFO - Batch 319 processed and saved.
+2025-01-08 00:19:51,656 - INFO - Processing batch 320: rows 319000 to 319999
+2025-01-08 00:21:09,570 - INFO - Batch 320 processed and saved.
+2025-01-08 00:21:09,570 - INFO - Processing batch 321: rows 320000 to 320999
+2025-01-08 00:22:21,196 - INFO - Batch 321 processed and saved.
+2025-01-08 00:22:21,196 - INFO - Processing batch 322: rows 321000 to 321999
+2025-01-08 00:24:09,598 - INFO - Batch 322 processed and saved.
+2025-01-08 00:24:09,598 - INFO - Processing batch 323: rows 322000 to 322999
+2025-01-08 00:26:20,196 - INFO - Batch 323 processed and saved.
+2025-01-08 00:26:20,196 - INFO - Processing batch 324: rows 323000 to 323999
+2025-01-08 00:27:53,494 - INFO - Batch 324 processed and saved.
+2025-01-08 00:27:53,494 - INFO - Processing batch 325: rows 324000 to 324999
+2025-01-08 00:29:30,605 - INFO - Batch 325 processed and saved.
+2025-01-08 00:29:30,605 - INFO - Processing batch 326: rows 325000 to 325999
+2025-01-08 00:31:01,047 - INFO - Batch 326 processed and saved.
+2025-01-08 00:31:01,047 - INFO - Processing batch 327: rows 326000 to 326999
+2025-01-08 00:32:19,396 - INFO - Batch 327 processed and saved.
+2025-01-08 00:32:19,396 - INFO - Processing batch 328: rows 327000 to 327999
+2025-01-08 00:33:31,029 - INFO - Batch 328 processed and saved.
+2025-01-08 00:33:31,029 - INFO - Processing batch 329: rows 328000 to 328999
+2025-01-08 00:34:43,014 - INFO - Batch 329 processed and saved.
+2025-01-08 00:34:43,015 - INFO - Processing batch 330: rows 329000 to 329999
+2025-01-08 00:35:56,874 - INFO - Batch 330 processed and saved.
+2025-01-08 00:35:56,874 - INFO - Processing batch 331: rows 330000 to 330999
+2025-01-08 00:37:06,764 - INFO - Batch 331 processed and saved.
+2025-01-08 00:37:06,764 - INFO - Processing batch 332: rows 331000 to 331999
+2025-01-08 00:38:16,412 - INFO - Batch 332 processed and saved.
+2025-01-08 00:38:16,412 - INFO - Processing batch 333: rows 332000 to 332999
+2025-01-08 00:39:28,691 - INFO - Batch 333 processed and saved.
+2025-01-08 00:39:28,691 - INFO - Processing batch 334: rows 333000 to 333999
+2025-01-08 00:40:50,740 - INFO - Batch 334 processed and saved.
+2025-01-08 00:40:50,740 - INFO - Processing batch 335: rows 334000 to 334999
+2025-01-08 00:41:12,041 - WARNING - Retry 1/3 for manager_id 10844337: 502 Server Error: Bad Gateway for url: https://fantasy.premierleague.com/api/entry/10844337/
+2025-01-08 00:42:07,901 - INFO - Batch 335 processed and saved.
+2025-01-08 00:42:07,915 - INFO - Processing batch 336: rows 335000 to 335999
+2025-01-08 00:43:22,917 - INFO - Batch 336 processed and saved.
+2025-01-08 00:43:22,917 - INFO - Processing batch 337: rows 336000 to 336999
+2025-01-08 00:44:36,533 - INFO - Batch 337 processed and saved.
+2025-01-08 00:44:36,533 - INFO - Processing batch 338: rows 337000 to 337999
+2025-01-08 00:45:51,510 - INFO - Batch 338 processed and saved.
+2025-01-08 00:45:51,510 - INFO - Processing batch 339: rows 338000 to 338999
+2025-01-08 00:47:03,223 - INFO - Batch 339 processed and saved.
+2025-01-08 00:47:03,223 - INFO - Processing batch 340: rows 339000 to 339999
+2025-01-08 00:48:17,578 - INFO - Batch 340 processed and saved.
+2025-01-08 00:48:17,578 - INFO - Processing batch 341: rows 340000 to 340999
+2025-01-08 00:49:25,491 - INFO - Batch 341 processed and saved.
+2025-01-08 00:49:25,491 - INFO - Processing batch 342: rows 341000 to 341999
+2025-01-08 00:50:38,931 - INFO - Batch 342 processed and saved.
+2025-01-08 00:50:38,932 - INFO - Processing batch 343: rows 342000 to 342999
+2025-01-08 00:51:58,752 - INFO - Batch 343 processed and saved.
+2025-01-08 00:51:58,752 - INFO - Processing batch 344: rows 343000 to 343999
+2025-01-08 00:53:26,074 - INFO - Batch 344 processed and saved.
+2025-01-08 00:53:26,074 - INFO - Processing batch 345: rows 344000 to 344999
+2025-01-08 00:55:00,812 - INFO - Batch 345 processed and saved.
+2025-01-08 00:55:00,819 - INFO - Processing batch 346: rows 345000 to 345999
+2025-01-08 00:56:29,771 - INFO - Batch 346 processed and saved.
+2025-01-08 00:56:29,771 - INFO - Processing batch 347: rows 346000 to 346960
+2025-01-08 00:58:23,867 - INFO - Batch 347 processed and saved.
+2025-01-08 00:58:23,867 - INFO - All updates completed.
